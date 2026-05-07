@@ -104,4 +104,3 @@ The following issues were identified and fixed before analysis:
 
 Read the full breakdown of this analysis on Medium: https://medium.com/@qoozimjamiu21/what-8-800-netflix-titles-tell-us-about-how-the-platform-really-works-a711ba8bd9c1
 
-[What 8,800 Netflix Titles Tell Us About How the Platform Really Works](https://medium.com/@qoozimjamiu21/what-8-800-netflix-titles-tell-us-about-how-the-platform-really-works-a711ba8bd9c1)
